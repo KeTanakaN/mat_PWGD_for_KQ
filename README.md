@@ -1,1 +1,1 @@
-# mat_PWGD_for_KQ
+Matlab programs for a point-wise gradient descent method
